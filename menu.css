@@ -1,0 +1,18 @@
+ body {background-color: lightblue;}
+        table {border-style: double;
+                border-color: black;
+                margin: 10px; padding: 10px;
+                background-color: white;}
+		#id1 {color: blue;
+			letter-spacing: 5px;
+            text-decoration: underline;}
+
+		#id2 {color: red;
+			letter-spacing: 5px;
+            text-decoration: underline;}
+
+		#id3 {background-color: #2F394D;
+            color: #D83B23;
+             text-shadow: 10px 5px 10px #510B00;}
+
+        
